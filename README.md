@@ -1,4 +1,4 @@
-# SCT_ML_1
+House-Prices-Advanced-Regression-Techniques-master
 House-Prices-Advanced-Regression-Techniques-master
 This project is based on the Kaggle competition House Prices: Advanced Regression Techniques
 .
